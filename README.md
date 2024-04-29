@@ -1,7 +1,6 @@
 # UNP-project_sql-with-mysql_Adventure-work
 
-Explore our SQL analysis of sales sample data for valuable insights into customer behavior, product performance, and sales trends.
-Drive informed business decisions with clear, data-driven conclusions derived from our thorough examination of the dataset.
+AdventureWorks is a sample database created by Microsoft that is used for learning and demonstration purposes. It is designed to showcase the features of Microsoft SQL Server. The database includes various tables representing typical business entities such as customers, products, sales orders, and employees. It also includes views, stored procedures, and functions to demonstrate how to interact with the data using SQL queries and other database operations. AdventureWorks is widely used in tutorials, training materials, and examples for SQL Server and other database-related technologies.
 
 SCRIPT LINK-https://drive.google.com/file/d/1BORxI0mRx16QRKa5Ikt8u-OeRWc0UMlL/view?usp=sharing
 
